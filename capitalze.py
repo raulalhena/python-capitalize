@@ -10,3 +10,4 @@ def capitlize (words):
 
 capitlize(words)
 print(' ')
+print(words.title())
